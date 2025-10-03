@@ -23,4 +23,6 @@ Each time, I captured a 3-letter segment of the decrypted flag and ignored the r
 After extracting all the 3-letter segments from each shift step, I combined them to form the full flag.
 
 # Flag
-```CBCTF{you_captured_me_finally}```
+```
+CBCTF{you_captured_me_finally}
+```
