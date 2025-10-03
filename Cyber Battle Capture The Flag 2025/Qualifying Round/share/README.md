@@ -10,4 +10,6 @@ From the title I suspected a shared link. I asked ChatGPT for common share hosts
 https://pastebin.com/J93Btjtj
 
 # Flag
+```
 CBCTF{d2hhdF9pc19nMDBnbGVfZG9ya2luZz8=}
+```
