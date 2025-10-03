@@ -1,7 +1,7 @@
 # share - Micellaneous - Easy
 Author: MdHaazim | Team: FreshOuttaStack | Date: 2025-08-31
 
-# Summary
+# About
 The challenge named "share" only provided a token: J93Btjtj.
 
 # How to solve
